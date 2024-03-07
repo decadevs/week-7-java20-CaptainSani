@@ -1,0 +1,11 @@
+{
+  "name": "Sani Dogo",
+  "age": 28,
+  "email": "sani.dogo@decagon.dev",
+  "address": {
+    "street": "123 Main Street",
+    "city": "Dubai",
+    "country": "UAE"
+  },
+  "interests": ["Programming", "Badminton", "Traveling"]
+}
